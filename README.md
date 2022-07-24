@@ -24,10 +24,12 @@ Once again, it appears that removing the 9th grade scores from Thomas High did n
 	- The average charter school score for reading prior to the changes was 83.5, and the math average for charter schools was 83.9. Because the removed students averaged 83.7 and 83.6 in those respective categories, the impact of their scores being disqualified was once again minimal. Prior to the scores being dropped, the comparison between charter and district schools looked like this: ![School types with all students](Resources/Original_by_type.png)
 
 Removing the ninth grade from Thomas High gave this summary instead: ![School types without THS 9th grade](Resources/New_by_type.png)
+Again, any changes to the averages or percentages were not great enough to be seen after the rounding and formatting steps were completed. Regardless of the dropped scores, it continues to be true that the charter schools are outperforming their district counterparts by a substantial margin in each of the testing metrics.
 
 ## Summary
 Changes to the updated analysis after replacing the Thomas High School ninth-grade scores with NaNs include the following:
-- Thomas High School fell from second to third in the district in overall percentage of students passing both math and reading.
--
--
--
+- The math test performance statistics for Thomas High declined slightly; the average math score decreased from 83.41 to 83.35, while the percentage of students there who passed the math test dropped from 93.27% to 93.19%. 
+- Removing the ninth-grade scores, surprisingly, increased the average reading score at Thomas High from 83.85 to 83.90. The percentage of students who passed the reading test, however, still declined from 97.3% to 97.0%
+- With the new, lower passing rates, Thomas High no longer holds the highest percentage of students passing reading in the district. Instead, it now stands in third, behind Griffin and Cabrera High Schools.
+- After the scores were removed, the overall district averages and percentages in both subjects declined by a few hundredths of a point each. This could be attributed to the loss of grades from a charter school, which overall have tended to be higher than those of the other district schools throughout our analysis.
+

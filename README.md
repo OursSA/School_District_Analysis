@@ -12,11 +12,11 @@ Subsequently, the challenge assignment started from the supposition that there h
 	- Grouping by grade level resulted in a very simple change: the location of the ninth graders for Thomas High School was replaced with a placeholder for a non-existent value, while all the other numbers remained the same as before. The math average that was removed was among the highest for ninth graders in the district, but it was not out of line with the performance of many other charter schools, or the other grades at the same school. Similarly, the removed reading scores were not the strongest ninth grade in the district, nor were they the highest for a grade level at Thomas High. Here are the tables from before the scores were removed in math: 
 	![Table of all math scores by grade](Resources/Original_math_by_grade.png) 
 and reading: 
-![Table of all reading scores by grade](Resources/Original_reading_by_grade.png) 
+	![Table of all reading scores by grade](Resources/Original_reading_by_grade.png) 
 Compared to the ones after the scores were removed in math: 
-![Table of math scores except the ones under question](Resources/New_math_by_grade.png) 
+	![Table of math scores except the ones under question](Resources/New_math_by_grade.png) 
 and in reading: 
-![Table of reading scores excluding the ones being questioned](Resources/New_reading_by_grade.png)
+	![Table of reading scores excluding the ones being questioned](Resources/New_reading_by_grade.png)
 	- Because Thomas High has a budget of $638 per student, it falls into the second-highest category of per-capita spending in our analysis. Before removing the ninth-graders, the analysis of spending categories looked like this: ![Spending bins including THS 9th](Resources/Original_by_spending.png)
 Now, with the 9th grade scores removed, we instead have this: ![Spending bins excluding THS 9th](Resources/New_by_spending.png). The net effect of removing the scores that were under suspicion seems to have been negligible in this analysis; schools of a similar size to Thomas High maintained the same averages and percentages either way. Displaying the data frames prior to formatting does show some slight changes in the group that includes THS, but said changes were not enough to alter the outcome once the rounding part of our formatting step was applied.
 	- When grouping the schools by size, Thomas High falls into the “medium” category, with 1,635 students. The original analysis by school size produced this result:

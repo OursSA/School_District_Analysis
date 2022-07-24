@@ -13,8 +13,8 @@ Subsequently, the challenge assignment started from the supposition that there h
 and reading: ![Table of all reading scores by grade](Resources/Original_reading_by_grade.png)Compared to the ones after the scores were removed in math: 
 ![Table of math scores except the ones under question](Resources/New_math_by_grade.png) 
 and in reading: ![Table of reading scores excluding the ones being questioned](Resources/New_reading_by_grade.png)
- - Because Thomas High has a budget of $638 per student, it falls into the second-highest category of per-capita spending in our analysis. Before removing the ninth-graders, the analysis of spending categories looked like this: ![Spending bins including THS 9th](Resources/original_by_spending.png)
-Now, with the 9th grade scores removed, we instead have this: ![Spending bins excluding THS 9th](Resources/new_by_spending.png). 
+ - Because Thomas High has a budget of $638 per student, it falls into the second-highest category of per-capita spending in our analysis. Before removing the ninth-graders, the analysis of spending categories looked like this: ![Spending bins including THS 9th](Resources/Original_by_spending.png)
+Now, with the 9th grade scores removed, we instead have this: ![Spending bins excluding THS 9th](Resources/New_by_spending.png). 
 -By size:
 -By school type: 
 
